@@ -25,3 +25,6 @@ Requirements
     
 More <a href='https://chiselapp.com/user/nicodelua/repository/ttcb/ttcb'>here</a>
 
+<a href='https://chiselapp.com/user/nicodelua/repository/ttcb/tarball/TTCBook-3754296dd5c69d81.tar.gz'>Download</a>
+
+
