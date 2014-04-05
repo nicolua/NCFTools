@@ -23,8 +23,7 @@ Requirements
     lsqlite3
     
     
-More <a href='https://chiselapp.com/user/nicodelua/repository/ttcb/ttcb'>here</a>
+More <a href='https://chiselapp.com/user/nicodelua/repository/ttcb/home'>here</a>
 
-<a href='https://chiselapp.com/user/nicodelua/repository/ttcb/tarball/TTCBook-3754296dd5c69d81.tar.gz'>Download</a>
-
+<a href='https://chiselapp.com/user/nicodelua/repository/ttcb/tarball/TTCBook-6a550540d6e3a3fb.tar.gz'>Download</a>
 
