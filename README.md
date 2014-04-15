@@ -3,10 +3,11 @@ TTCBook
 
 TypeToCopyBook
 
-
  a Lua libs based on c++ portable libs (ptypes)
 
 currently includes
+
+    imap
 
     pop3
 
